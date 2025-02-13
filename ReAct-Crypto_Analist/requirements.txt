@@ -1,0 +1,5 @@
+python-dotenv
+groq
+colorama
+selenium
+webdriver_manager
